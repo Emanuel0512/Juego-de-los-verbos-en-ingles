@@ -1,1 +1,3 @@
-0,arise,arose,arisen,surgir,
+0,arise,arose,arisen,surgir
+1,bear,bore,born,nacer
+2,beat,beat,beaten,golpear,

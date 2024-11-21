@@ -1,4 +1,4 @@
-0,arise,arose,arisen,surgir
-1,bear,bore,born,nacer
-2,beat,beat,beaten,golpear,
-0,arise,arose,arisen,surgir,
+0,cinco,cinco,cinco,cinco
+
+1,cinco,cinco,cinco,cinco
+

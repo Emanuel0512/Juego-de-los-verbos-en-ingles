@@ -93,7 +93,7 @@ def eliminar(numero):
     for verbo in lista_verbos:
         if verbo[0] != numero:
             verbos.write(verbo[0]+","+verbo[1]+","+verbo[2]+","+verbo[3]+","+verbo[4]+"\n")
-    verbos.close
+    verbos.close()
     print("Verbo eliminado exitosamente!")
 
 def jugar():
